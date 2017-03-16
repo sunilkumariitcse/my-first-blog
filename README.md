@@ -1,5 +1,5 @@
 
-***************** Algorithm design and analysis 1st Assignment **************
+***************** stable matching or GS algorithm **************
 
 Name : Sunil Kumar
 Roll No : B14135
@@ -7,10 +7,10 @@ Branch : CSE
 Email : sunil_k@students.iitmandi.ac.in
 
 
-**************** 1st Question **********************************
+****************  **********************************
 
 			Stable marriage problem
-			compile : g++ -o make_pair make_pair.cpp
+			compile : g++ -o stable_matching stable_matching.cpp
 			run : ./make_pair < <input file>
 Input format:
 
